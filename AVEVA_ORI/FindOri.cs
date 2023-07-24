@@ -38,9 +38,9 @@ namespace AVEVA_ORI
             double dy = y2 - y1;
             double dz = z2 - z1;
 
-            double horizontalAngle = Math.Atan2(dy, dx);
+            double horizontalAngle = Math.Atan2(dy, dx) * 180 / Math.PI;
             double xyDistance = Math.Sqrt(dx * dx + dy * dy);
-            double verticalAngle = Math.Atan2(dz, xyDistance);
+            double verticalAngle = Math.Atan2(dz, xyDistance) * 180 / Math.PI;
 
             return new Tuple<double, double>(horizontalAngle, verticalAngle);
         }
