@@ -1,0 +1,9 @@
+C:\Users\std\source\repos\AVEVA_ORI\AVEVA_ORI\bin\Release\AVEVA_ORI.dll
+C:\Users\std\source\repos\AVEVA_ORI\AVEVA_ORI\bin\Release\AVEVA_ORI.pdb
+C:\Users\std\source\repos\AVEVA_ORI\AVEVA_ORI\bin\Release\PMLNet.dll
+C:\Users\std\source\repos\AVEVA_ORI\AVEVA_ORI\bin\Release\ForeignLanguage.dll
+C:\Users\std\source\repos\AVEVA_ORI\AVEVA_ORI\obj\Release\AVEVA_ORI.csproj.AssemblyReference.cache
+C:\Users\std\source\repos\AVEVA_ORI\AVEVA_ORI\obj\Release\AVEVA_ORI.csproj.CoreCompileInputs.cache
+C:\Users\std\source\repos\AVEVA_ORI\AVEVA_ORI\obj\Release\AVEVA_ORI.csproj.CopyComplete
+C:\Users\std\source\repos\AVEVA_ORI\AVEVA_ORI\obj\Release\AVEVA_ORI.dll
+C:\Users\std\source\repos\AVEVA_ORI\AVEVA_ORI\obj\Release\AVEVA_ORI.pdb
